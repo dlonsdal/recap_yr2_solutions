@@ -118,7 +118,7 @@ CAL #show 'CAL' data frame in R console.
 
 # Setting the working directory and importing a csv file  
 
-A reminder that when you start to use <TT>R</TT>, you will often need to import data to analyse. For this session, we are going to use some pharmacokinetic data that can be downloaded from Canvas - 'amoxicillin.csv'. 
+A reminder that when you start to use <TT>R</TT>, you will often need to import data to analyse. 
   
 When working on a project in <TT>R</TT>, it is standard practice to navigate to the folder that your data is in using the  <TT>setwd()</TT> function. This tells <TT>R</TT> the directory you want to work in. Everything you save in your <TT>R</TT> session will by default be saved in the working directory (although this default can be overridden). If you want to import a csv file, we will use the function <TT>read.csv()</TT>. 
 
