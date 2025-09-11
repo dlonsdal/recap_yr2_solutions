@@ -79,7 +79,7 @@ By the end of this session you should be able to:
 
 Remember, when you are using a University computer, you need to access <TT>RStudio</TT> via the University servers.
 
-The link for this is [here](https://stats3.sgul.ac.uk/rstudio).  I suggest you save this as a 'favourite'
+The link for this is [here](https://stats4.sgul.ac.uk/rstudio).  I suggest you save this as a 'favourite'
 
 # Some basics in <TT>R</TT>
 Open <TT>RStudio</TT> and then open a new <TT>R</TT> script by clicking on the plus page in the top left hand corner of the <TT>RStudio</TT> window. You are now ready to start writing an <TT>R</TT> script. Try doing some simple maths and running the code by clicking '<TT>Run</TT>' or pressing <TT>ctrl+enter</TT> (<TT>cmd+enter if using a Mac</TT>).
